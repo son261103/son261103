@@ -20,15 +20,15 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: son261103
-          outputs: /tmp/snake.svg
+          outputs: dist/snake.svg
 
       - name: Publish to output branch
         run: |
+          cp dist/snake.svg /tmp/snake.svg
           git fetch origin output || true
           if git show-ref --verify --quiet refs/remotes/origin/output; then
             git checkout output
