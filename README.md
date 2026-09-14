@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sonpham.dev-9BCEC1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonpham.dev)
 [![Email](https://img.shields.io/badge/Email-sonphaman5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonphaman5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-son261103-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/son261103)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ph%E1%BA%A1m_S%C6%A1n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ph%E1%BA%A1m-s%C6%A1n-b36282224/)
 [![Follow](https://img.shields.io/github/followers/son261103?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=181717)](https://github.com/son261103?tab=followers)
 
 ![Profile views](https://komarev.com/ghpvc/?username=son261103&color=9BCEC1&style=flat-square&label=PROFILE+VIEWS)
@@ -159,7 +159,7 @@ RAG experiments playground (Python) · This portfolio, live at [sonpham.dev](htt
 📧 sonphaman5@gmail.com · 📞 0789.282.470 · 📍 Ha Noi, Vietnam
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sonpham.dev-9BCEC1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonpham.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/son261103)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ph%E1%BA%A1m-s%C6%A1n-b36282224/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/son261103)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
