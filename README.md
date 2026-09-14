@@ -131,6 +131,5 @@ AI Engineer with hands-on experience building applications powered by **Large La
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/son261103)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 </div>
