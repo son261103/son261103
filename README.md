@@ -51,9 +51,8 @@ Junior AI Engineer with hands-on experience building applications powered by **L
 <div align="center">
 
 ### 🤖 AI / LLM
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://pytorch.org)
-[![OpenCV](https://skillicons.dev/icons?i=opencv&theme=dark)](https://opencv.org)
+[![Python, PyTorch, OpenCV](https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark)](https://www.python.org)
+<br>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openai&logoColor=white)
 ![Docling](https://img.shields.io/badge/Docling-9BCEC1?style=for-the-badge&logo=readthedocs&logoColor=white)
@@ -61,34 +60,23 @@ Junior AI Engineer with hands-on experience building applications powered by **L
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### ⚙️ Backend
-[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.java.com)
-[![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://spring.io)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com)
+[![Java, Spring, FastAPI](https://skillicons.dev/icons?i=java,spring,fastapi&theme=dark)](https://spring.io)
+<br>
 ![Spring Security 6](https://img.shields.io/badge/Spring_Security_6-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
 ### 🗄️ Databases
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com)
-[![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://www.sqlite.org)
+[![PostgreSQL, MySQL, SQLite](https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark)](https://www.postgresql.org)
+<br>
 ![Vector Search](https://img.shields.io/badge/Vector_Search-6FAFA0?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ### 🎨 Frontend
-[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
-[![Redux](https://skillicons.dev/icons?i=redux&theme=dark)](https://redux-toolkit.js.org)
-[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org)
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com)
-[![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://vitejs.dev)
+[![React, Redux, TypeScript, JavaScript, Next.js, Tailwind, Vite](https://skillicons.dev/icons?i=react,redux,ts,js,nextjs,tailwind,vite&theme=dark)](https://react.dev)
 
 ### 🐳 DevOps & Tools
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com)
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://github.com/features/actions)
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org)
-[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com)
+[![Docker, GitHub Actions, Git, Linux, Postman](https://skillicons.dev/icons?i=docker,githubactions,git,linux,postman&theme=dark)](https://www.docker.com)
+<br>
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 </div>
