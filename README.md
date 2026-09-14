@@ -116,7 +116,7 @@ AI Engineer with hands-on experience building applications powered by **Large La
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/son261103/son261103/output/profile-green-animate.svg" alt="3D contribution graph" />
+<img width="100%" src="https://raw.githubusercontent.com/son261103/son261103/output/profile-season-animate.svg" alt="3D contribution graph" />
 
 </div>
 

@@ -36,20 +36,22 @@ jobs:
       - name: Publish to output branch
         run: |
           echo "=== generated files ==="
-          ls -la dist/ profile-3d/ || true
+          ls -la dist/ profile-3d-contrib/ profile-3d/ 2>/dev/null || true
           mkdir -p /tmp/assets
           cp dist/snake.svg /tmp/assets/ 2>/dev/null || echo "WARN: no snake.svg"
-          if ls profile-3d/*.svg >/dev/null 2>&1; then
-            cp profile-3d/*.svg /tmp/assets/
+          if ls profile-3d-contrib/*.svg >/dev/null 2>&1; then
+            cp profile-3d-contrib/profile-green-animate.svg /tmp/assets/ 2>/dev/null || true
+            cp profile-3d-contrib/profile-green.svg /tmp/assets/ 2>/dev/null || true
           else
-            echo "WARN: no 3d svgs, keeping old ones"
+            echo "WARN: no 3d svgs, keeping old non-empty ones"
             git fetch origin output || true
             if git show-ref --verify --quiet refs/remotes/origin/output; then
-              git show origin/output:profile-green-animate.svg > /tmp/assets/profile-green-animate.svg 2>/dev/null || true
-              git show origin/output:profile-green.svg > /tmp/assets/profile-green.svg 2>/dev/null || true
+              SZ=$(git cat-file -s origin/output:profile-green-animate.svg 2>/dev/null || echo 0)
+              if [ "$SZ" -gt 1000 ] 2>/dev/null; then git show origin/output:profile-green-animate.svg > /tmp/assets/profile-green-animate.svg; fi
+              SZ=$(git cat-file -s origin/output:profile-green.svg 2>/dev/null || echo 0)
+              if [ "$SZ" -gt 1000 ] 2>/dev/null; then git show origin/output:profile-green.svg > /tmp/assets/profile-green.svg; fi
             fi
           fi
-          ls -la /tmp/assets
           git fetch origin output || true
           if git show-ref --verify --quiet refs/remotes/origin/output; then
             git checkout output
