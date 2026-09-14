@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&color=9BCEC1&lines=Custom+GraphRAG+%7C+RAG+Pipelines+%F0%9F%95%B8%EF%B8%8F;Multi-Agent+Orchestration+%7C+MCP+%F0%9F%A4%96;FastAPI+%7C+Spring+Boot+%7C+React+%E2%9A%99%EF%B8%8F;Open+for+Junior+AI+Engineer+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&color=9BCEC1&lines=Custom+GraphRAG+%7C+RAG+Pipelines+%F0%9F%95%B8%EF%B8%8F;Multi-Agent+Orchestration+%7C+MCP+%F0%9F%A4%96;FastAPI+%7C+Spring+Boot+%7C+React+%E2%9A%99%EF%B8%8F;Open+for+Junior+AI+Engineer+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sonpham.dev-9BCEC1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonpham.dev)
 [![Email](https://img.shields.io/badge/Email-sonphaman5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonphaman5@gmail.com)
