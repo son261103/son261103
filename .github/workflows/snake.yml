@@ -35,10 +35,21 @@ jobs:
 
       - name: Publish to output branch
         run: |
+          echo "=== generated files ==="
+          ls -la dist/ profile-3d/ || true
           mkdir -p /tmp/assets
-          cp dist/snake.svg /tmp/assets/
-          cp profile-3d/*.svg /tmp/assets/
-          ls /tmp/assets
+          cp dist/snake.svg /tmp/assets/ 2>/dev/null || echo "WARN: no snake.svg"
+          if ls profile-3d/*.svg >/dev/null 2>&1; then
+            cp profile-3d/*.svg /tmp/assets/
+          else
+            echo "WARN: no 3d svgs, keeping old ones"
+            git fetch origin output || true
+            if git show-ref --verify --quiet refs/remotes/origin/output; then
+              git show origin/output:profile-green-animate.svg > /tmp/assets/profile-green-animate.svg 2>/dev/null || true
+              git show origin/output:profile-green.svg > /tmp/assets/profile-green.svg 2>/dev/null || true
+            fi
+          fi
+          ls -la /tmp/assets
           git fetch origin output || true
           if git show-ref --verify --quiet refs/remotes/origin/output; then
             git checkout output

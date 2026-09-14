@@ -112,22 +112,11 @@ AI Engineer with hands-on experience building applications powered by **Large La
 **Technical Staff** — `VPTECH VN` · *11/2022 – 07/2024 · Ha Noi*
 - Enterprise hardware/software troubleshooting; self-taught Python, data structures, algorithms & backend fundamentals
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=son261103&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-
-</div>
-
 ## 🌌 3D Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="./profile-3d/profile-green-animate.svg" alt="3D contribution graph" />
-
-> Static fallback if animation hasn't generated yet:
-> <img width="100%" src="./profile-3d/profile-green.svg" alt="3D contribution graph static" />
+<img width="100%" src="https://raw.githubusercontent.com/son261103/son261103/output/profile-green-animate.svg" alt="3D contribution graph" />
 
 </div>
 
