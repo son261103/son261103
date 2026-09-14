@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&color=9BCEC1&lines=Custom+GraphRAG+%7C+RAG+Pipelines+%F0%9F%95%B8%EF%B8%8F;Multi-Agent+Orchestration+%7C+MCP+%F0%9F%A4%96;FastAPI+%7C+Spring+Boot+%7C+React+%E2%9A%99%EF%B8%8F;Open+for+Junior+AI+Engineer+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&color=9BCEC1&lines=Custom+GraphRAG+%7C+RAG+Pipelines+%F0%9F%95%B8%EF%B8%8F;Multi-Agent+Orchestration+%7C+MCP+%F0%9F%A4%96;FastAPI+%7C+Spring+Boot+%7C+React+%E2%9A%99%EF%B8%8F;Open+to+work+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sonpham.dev-9BCEC1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonpham.dev)
 [![Email](https://img.shields.io/badge/Email-sonphaman5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonphaman5@gmail.com)
@@ -10,7 +10,7 @@
 [![Follow](https://img.shields.io/github/followers/son261103?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=181717)](https://github.com/son261103?tab=followers)
 
 ![Profile views](https://komarev.com/ghpvc/?username=son261103&color=9BCEC1&style=flat-square&label=PROFILE+VIEWS)
-![Open to work](https://img.shields.io/badge/Open_to_work-Junior_AI_Engineer-brightgreen?style=flat-square)
+![Open to work](https://img.shields.io/badge/Open_to_work-AI_Engineer-brightgreen?style=flat-square)
 
 </div>
 
@@ -18,9 +18,9 @@
 
 ## 🙋‍♂️ About Me
 
-Junior AI Engineer with hands-on experience building applications powered by **Large Language Models (LLMs)** — custom **RAG / GraphRAG pipelines**, **AI agent orchestration systems**, and production backend services.
+AI Engineer with hands-on experience building applications powered by **Large Language Models (LLMs)** — custom **RAG / GraphRAG pipelines**, **AI agent orchestration systems**, and production backend services.
 
-- 🔭 **Now:** Junior Backend Developer (AI & Backend Services) @ **RedAI** — FastAPI AI media platform, custom GraphRAG, multi-agent harnesses
+- 🔭 **Now:** Backend Developer (AI & Backend Services) @ **RedAI** — FastAPI AI media platform, custom GraphRAG, multi-agent harnesses
 - 🧠 **Exploring:** GraphRAG · Model Context Protocol (MCP) · Multi-Agent Swarms
 - 🎓 **Education:** B.S. Information Technology, **East Asia University of Technology (EAUT)** — Graduated 2025 · Java Backend & React.js @ Devmaster (11/2023 – 10/2024)
 - 📍 Bac Tu Liem, Ha Noi, Vietnam · 📞 `0789.282.470` · 📧 sonphaman5@gmail.com
@@ -98,7 +98,7 @@ Junior AI Engineer with hands-on experience building applications powered by **L
 
 ## 💼 Experience
 
-**Junior Backend Developer (AI & Backend Services)** — `RedAI` · *04/2025 – 07/2026 · Ha Noi*
+**Backend Developer (AI & Backend Services)** — `RedAI` · *04/2025 – 07/2026 · Ha Noi*
 - FastAPI backend for an AI media platform: text-to-image, image-to-video, motion/dance transfer, voice cloning, face swap, lip sync, upscale, music generation
 - Custom GraphRAG pipeline: Docling document parsing → semantic chunking → LLM node/edge extraction → graph-merge layer for multi-hop reasoning
 - Agent-orchestration harness patterns (circuit-breaker/retry, structured JSON tool interfaces, context compression) coordinating Claude Code, Codex CLI, Gemini CLI
@@ -112,7 +112,24 @@ Junior AI Engineer with hands-on experience building applications powered by **L
 **Technical Staff** — `VPTECH VN` · *11/2022 – 07/2024 · Ha Noi*
 - Enterprise hardware/software troubleshooting; self-taught Python, data structures, algorithms & backend fundamentals
 
----
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=son261103&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+## 🌌 3D Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="./profile-3d/profile-green-animate.svg" alt="3D contribution graph" />
+
+> Static fallback if animation hasn't generated yet:
+> <img width="100%" src="./profile-3d/profile-green.svg" alt="3D contribution graph static" />
+
+</div>
 
 ## 📫 Let's Connect
 
@@ -125,7 +142,6 @@ Junior AI Engineer with hands-on experience building applications powered by **L
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/son261103)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9BCEC1,50:0f2b28,100:0C1110&height=120&section=footer" />

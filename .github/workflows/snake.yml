@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -20,15 +20,25 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: son261103
           outputs: dist/snake.svg
 
+      - name: Generate 3D contrib
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: son261103
+
       - name: Publish to output branch
         run: |
-          cp dist/snake.svg /tmp/snake.svg
+          mkdir -p /tmp/assets
+          cp dist/snake.svg /tmp/assets/
+          cp profile-3d/*.svg /tmp/assets/
+          ls /tmp/assets
           git fetch origin output || true
           if git show-ref --verify --quiet refs/remotes/origin/output; then
             git checkout output
@@ -36,9 +46,9 @@ jobs:
             git checkout --orphan output
           fi
           git rm -rf . --ignore-unmatch
-          cp /tmp/snake.svg ./snake.svg
+          cp /tmp/assets/*.svg ./
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add snake.svg
-          git diff --staged --quiet || git commit -m "chore: update contribution snake"
+          git add *.svg
+          git diff --staged --quiet || git commit -m "chore: update profile assets"
           git push origin output
