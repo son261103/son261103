@@ -10,6 +10,7 @@
 [![Follow](https://img.shields.io/github/followers/son261103?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=181717)](https://github.com/son261103?tab=followers)
 
 ![Profile views](https://komarev.com/ghpvc/?username=son261103&color=9BCEC1&style=flat-square&label=PROFILE+VIEWS)
+![Open to work](https://img.shields.io/badge/Open_to_work-Junior_AI_Engineer-brightgreen?style=flat-square)
 
 </div>
 
