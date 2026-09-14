@@ -10,8 +10,6 @@
 [![Follow](https://img.shields.io/github/followers/son261103?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=181717)](https://github.com/son261103?tab=followers)
 
 ![Profile views](https://komarev.com/ghpvc/?username=son261103&color=9BCEC1&style=flat-square&label=PROFILE+VIEWS)
-![Open for roles](https://img.shields.io/badge/STATUS-Open_for_Junior_AI_Engineer_&_Backend_Roles-brightgreen?style=flat-square)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fson261103&query=%24.public_repos&label=PUBLIC%20REPOS&style=flat-square&color=9BCEC1)
 
 </div>
 
@@ -85,38 +83,13 @@ Junior AI Engineer with hands-on experience building applications powered by **L
 
 ## 🔥 Featured Projects
 
-### 🕸️ Custom GraphRAG & Multi-Provider AI Platform 🔒 `2025 – 2026`
-Custom GraphRAG engine for multi-hop reasoning over complex documents — Docling parsing (PDF/DOCX/OCR), semantic chunking, LLM entity/relation extraction, graph-merge layer — plus a unified model registry orchestrating **OpenRouter, fal.ai, WaveSpeed, SiliconFlow, Fish Audio** with fallback chains & async rate-limit handling.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docling](https://img.shields.io/badge/Docling-9BCEC1?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### 🎥 [Real-Time YOLO11x Object Detection System](https://github.com/son261103/computer_vision_v1) `11/2024 – 12/2024`
-End-to-end CV pipeline on live webcam feeds at **20–30 FPS** (33ms/frame), **85%+ accuracy** across 80+ COCO classes, Qt6/QML desktop HUD with live bounding boxes. Bottlenecks profiled with PyTorch Profiler.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO11x](https://img.shields.io/badge/YOLO11x-00FFFF?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-
-### 🤖 Multi-Agent Orchestrator Harness (Hermes) 🔒 `2025 – 2026`
-Coordinates Claude Code / Codex / Gemini CLI subagents — circuit-breaker + retry logic, context compression against token explosion, structured JSON-schema tool interfaces, **MCP** tool execution.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square)
-![AsyncIO](https://img.shields.io/badge/AsyncIO-0EA5E9?style=flat-square)
-
-### 🛒 [E-Commerce Clothes Platform & RESTful API](https://github.com/son261103/api-sell-clothes-v1-) `11/2024 – 01/2025`
-Production e-commerce: Spring Boot 3 REST API (catalog, cart, checkout, inventory, orders), Spring Security 6 JWT + fine-grained RBAC, MySQL + Flyway migrations, React 18 + Redux Toolkit admin dashboard, GitHub Actions CI/CD.
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![React 18](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 🧠 [chakra_rag](https://github.com/son261103/chakra_rag) · 💼 [portfolio_moew_ai_engineer](https://github.com/son261103/portfolio_moew_ai_engineer)
-RAG experiments playground (Python) · This portfolio, live at [sonpham.dev](https://sonpham.dev) (TypeScript, Next.js).
+| Project | Highlights | Stack |
+|---|---|---|
+| 🕸️ **GraphRAG & Multi-Provider AI Platform** 🔒<br>`2025 – 2026` | Multi-hop reasoning engine: Docling parsing → semantic chunking → LLM extraction → graph-merge + registry over OpenRouter, fal.ai, WaveSpeed, SiliconFlow, Fish Audio | `Python` `Docling` `LangChain` `FastAPI` |
+| 🎥 [**YOLO11x Real-Time Detection**](https://github.com/son261103/computer_vision_v1)<br>`11/2024 – 12/2024` | Live webcam inference **20–30 FPS**, **85%+** on 80+ COCO classes, Qt6/QML HUD | `Python` `YOLO11x` `PyTorch` `OpenCV` `Qt6` |
+| 🤖 **Multi-Agent Harness (Hermes)** 🔒<br>`2025 – 2026` | Claude / Codex / Gemini subagents — circuit-breaker + retry, context compression, MCP tools | `Python` `FastAPI` `MCP` `AsyncIO` |
+| 🛒 [**E-Commerce Clothes Platform**](https://github.com/son261103/api-sell-clothes-v1-)<br>`11/2024 – 01/2025` | Spring Boot 3 API + Security 6 JWT/RBAC, MySQL + Flyway, React 18 dashboard, CI/CD | `Java` `Spring Boot 3` `MySQL` `React 18` `Docker` |
+| 🧠 [**chakra_rag**](https://github.com/son261103/chakra_rag) · 💼 [portfolio](https://github.com/son261103/portfolio_moew_ai_engineer) | RAG playground (Python) · Portfolio source ([sonpham.dev](https://sonpham.dev), Next.js) | `Python` `TypeScript` |
 
 > 🔒 = private company work @ RedAI — no public repo.
 
